@@ -1,0 +1,12 @@
+# Environment variables
+export EDITOR=nano
+export PATH="$HOME/bin:$PATH"
+
+# Aliases
+alias envupdate="source ~/.bashrc"
+alias configcheck="ls -al ~/.*rc"
+
+export HISTSIZE=10000           " Increase history limit
+export HISTFILESIZE=20000
+export HISTCONTROL=ignoreboth   " Ignore duplicates & space-prefixed commands
+export HISTTIMEFORMAT="%F %T "  " Add timestamps [5,7](@ref)
