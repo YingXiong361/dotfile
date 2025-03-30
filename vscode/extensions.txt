@@ -34,3 +34,5 @@ telesoho.vscode-markdown-paste-image
 twxs.cmake
 yzhang.dictionary-completion
 yzhang.markdown-all-in-one
+ms-vscode.remote-explorer
+ms-vscode.remote-server
