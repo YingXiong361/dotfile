@@ -1,4 +1,5 @@
 davidanson.vscode-markdownlint
+eamodio.gitlens
 exiahuang.dictionary
 github.copilot
 github.copilot-chat
@@ -25,8 +26,7 @@ ms-vscode.cmake-tools
 ms-vscode.cpptools
 ms-vscode.cpptools-extension-pack
 ms-vscode.cpptools-themes
-ms-vscode.remote-explorer
-ms-vscode.remote-server
+ms-vscode.hexeditor
 mushan.vscode-paste-image
 perkovec.emoji
 streetsidesoftware.code-spell-checker
